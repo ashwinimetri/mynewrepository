@@ -1,0 +1,3 @@
+# mynewrepository
+test git
+"testing"
